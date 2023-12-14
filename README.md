@@ -1,10 +1,7 @@
 # SHAKIL-XD
-rm -rf SHAKIL-XD
 
-git clone https://github.com/SHAKIL-FC/SHAKIL-XD
-
-cd SHAKIL-XD
-
-git pull
-
-python SCANNING.py
+print('rm -rf SHAKIL-XD')
+print('git clone https://github.com/SHAKIL-FC/SHAKIL-XD')
+print('cd SHAKIL-XD')
+print('git pull')
+print('python SCANNING.py')
