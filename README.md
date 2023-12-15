@@ -25,4 +25,4 @@ cd SHAKIL-XD
 
 git pull
 
-python SCANNING.py
+python3 SCANNING.py
